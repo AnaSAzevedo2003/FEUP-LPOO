@@ -6,11 +6,6 @@ O jogo que desenvolvemos assimilação ao jogo orinal da série de jogos *Fallou
 # Description
 O *Vault Boy* surge num espaço repleto de monstros. Para progredir, deve combater e vencer os monstros, ou evitar a batalha, mantendo-se afastado dos inimigos. A batalha é em formato de combate por turnos. Em todas as rondas, é apresentado ao utilizador uma multitude de opções, com diferentes efeitos e que o ajudarão a vencer a batalha. A cada vitória, o *Vault Boy* ganha experiência e torna-se mais forte. De modo a vencer o jogo, o *Vault Boy* deve atingir a *Vault Door*, que se encontra na última arena.
 
-# Autores
-Este projeto foi realizado por: 
- - Francisco Oliveira (up201907361@edu.fe.pt)
- - Marcelo Couto (up201906086@edu.fe.up.pt)
-
 # Comandos
  - **R**: Reset
  - **Setas do teclado**:
@@ -25,3 +20,17 @@ Este projeto foi realizado por:
 <p align = "center">
   <img width = 650 src = "docs/images/features/gameDemo.gif">
 </p>
+
+# Avisos
+- Correr o executável do makelevels se os binários estiverem corrompidos
+
+# Resultados
+O programa desenvolvido está do agrado dos autores e corresponde a um sucesso, apesar de as ambições para o mesmo terem sido mais altas.
+
+**GRADE:** ?
+
+# Autores
+Name | UP | Git Username |
+-----|----|--------------|
+Marcelo Couto | 201906086 | [marhcouto](https://github.com/marhcouto)
+Francisco Oliveira | 201907361 | -
