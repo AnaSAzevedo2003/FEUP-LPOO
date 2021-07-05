@@ -21,10 +21,10 @@ O *Vault Boy* surge num espaço repleto de monstros. Para progredir, deve combat
   <img width = 650 src = "docs/images/features/gameDemo.gif">
 </p>
 
-# Avisos
+# Warnings
 - Correr o executável do makelevels se os binários estiverem corrompidos
 
-# Resultados
+# Results
 O programa desenvolvido está do agrado dos autores e corresponde a um sucesso, apesar de as ambições para o mesmo terem sido mais altas.
 
 **GRADE:** ?
