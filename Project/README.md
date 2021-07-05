@@ -29,7 +29,7 @@ O programa desenvolvido está do agrado dos autores e corresponde a um sucesso, 
 
 **GRADE:** ?
 
-# Autores
+# Authors
 Name | UP | Git Username |
 -----|----|--------------|
 Marcelo Couto | 201906086 | [marhcouto](https://github.com/marhcouto)
