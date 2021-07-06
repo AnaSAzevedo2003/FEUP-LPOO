@@ -33,4 +33,4 @@ O programa desenvolvido está do agrado dos autores e corresponde a um sucesso, 
 Name | UP | Git Username |
 -----|----|--------------|
 Marcelo Couto | 201906086 | [marhcouto](https://github.com/marhcouto)
-Francisco Oliveira | 201907361 | -
+Francisco Oliveira | 201907361 | [frpdoliv](https://github.com/frpdoliv)
