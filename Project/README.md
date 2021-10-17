@@ -27,7 +27,7 @@ O *Vault Boy* surge num espaço repleto de monstros. Para progredir, deve combat
 # Results
 O programa desenvolvido está do agrado dos autores e corresponde a um sucesso, apesar de as ambições para o mesmo terem sido mais altas.
 
-**GRADE:** ?
+**GRADE:** 17
 
 # Authors
 Name | UP | Git Username |
