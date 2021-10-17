@@ -6,4 +6,4 @@
 **CONTENTS:** 
 - Project developped for the course.
 
-**FINAL GRADE:** ?
+**FINAL GRADE:** 17
